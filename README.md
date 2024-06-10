@@ -3,3 +3,9 @@ Natural resource management and conservation require effective monitoring tools 
 
 ![image](https://github.com/Manuel-Weber-ETH/ecoshieldanalytics/assets/118481837/994029fa-208e-4d3d-8aef-9de22e277382)
 
+This repository contains the script to run the app: EcoShieldAnalytics.py
+
+It also contains example files to run the app:
+- plateau.shp (and associated files) is a shapefile of a protected area
+- positive_events.csv contains a series of coordinates of punctual events (type 2 and 3 indicators)
+- patroltracks.kml contains a gps patrol track (type 1 indicator)
